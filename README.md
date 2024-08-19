@@ -1,3 +1,5 @@
+This project was an initiative for our Information Processing module at Imperial College London.
+
 # glutton-io
 
 An online multiplayer game where you grow a cell in a Petri dish.
@@ -20,3 +22,5 @@ work as well).
 To run the server locally, follow the instructions in 
 [`server/README.md`](server/README.md).
 
+
+Thank you [Vishesh](https://github.com/vishesh32), [Fred](https://github.com/fedorrrd), [William](https://github.com/saturn691) and [John[(https://github.com/johnyeocx) for this singular experience!
