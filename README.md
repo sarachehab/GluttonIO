@@ -23,4 +23,4 @@ To run the server locally, follow the instructions in
 [`server/README.md`](server/README.md).
 
 
-Thank you [Vishesh](https://github.com/vishesh32), [Fred](https://github.com/fedorrrd), [William](https://github.com/saturn691) and [John[(https://github.com/johnyeocx) for this singular experience!
+Thank you [Vishesh](https://github.com/vishesh32), [Fred](https://github.com/fedorrrd), [William](https://github.com/saturn691) and [John](https://github.com/johnyeocx) for this singular experience!
